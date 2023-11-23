@@ -19,7 +19,6 @@ export default function Home() {
     const { pathname, asPath, query } = router;
     const newLocale = event.target.value;
 
-    i18n.changeLanguage(newLocale);
     router.push({ pathname, query }, asPath, { locale: newLocale });
   };
 
