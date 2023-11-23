@@ -1,0 +1,122 @@
+[
+  {
+    "code": "en",
+    "name": "English",
+    "nativeName": "English",
+    "locales": ["en-US", "en-GB"]
+  },
+  {
+    "code": "es",
+    "name": "Spanish",
+    "nativeName": "Español",
+    "locales": ["es-ES", "es-MX"]
+  },
+  {
+    "code": "fr",
+    "name": "French",
+    "nativeName": "Français",
+    "locales": ["fr-FR", "fr-CA"]
+  },
+  {
+    "code": "de",
+    "name": "German",
+    "nativeName": "Deutsch",
+    "locales": ["de-DE"]
+  },
+  {
+    "code": "zh",
+    "name": "Chinese",
+    "nativeName": "中文",
+    "locales": ["zh-CN", "zh-TW"]
+  },
+  {
+    "code": "ja",
+    "name": "Japanese",
+    "nativeName": "日本語",
+    "locales": ["ja-JP"]
+  },
+  {
+    "code": "ko",
+    "name": "Korean",
+    "nativeName": "한국어",
+    "locales": ["ko-KR"]
+  },
+  {
+    "code": "ru",
+    "name": "Russian",
+    "nativeName": "Русский",
+    "locales": ["ru-RU"]
+  },
+  {
+    "code": "pt",
+    "name": "Portuguese",
+    "nativeName": "Português",
+    "locales": ["pt-BR", "pt-PT"]
+  },
+  {
+    "code": "it",
+    "name": "Italian",
+    "nativeName": "Italiano",
+    "locales": ["it-IT"]
+  },
+  {
+    "code": "ar",
+    "name": "Arabic",
+    "nativeName": "العربية",
+    "locales": ["ar-SA"]
+  },
+  {
+    "code": "nl",
+    "name": "Dutch",
+    "nativeName": "Nederlands",
+    "locales": ["nl-NL"]
+  },
+  {
+    "code": "sv",
+    "name": "Swedish",
+    "nativeName": "Svenska",
+    "locales": ["sv-SE"]
+  },
+  {
+    "code": "no",
+    "name": "Norwegian",
+    "nativeName": "Norsk",
+    "locales": ["no-NO"]
+  },
+  {
+    "code": "da",
+    "name": "Danish",
+    "nativeName": "Dansk",
+    "locales": ["da-DK"]
+  },
+  {
+    "code": "fi",
+    "name": "Finnish",
+    "nativeName": "Suomi",
+    "locales": ["fi-FI"]
+  },
+  {
+    "code": "el",
+    "name": "Greek",
+    "nativeName": "Ελληνικά",
+    "locales": ["el-GR"]
+  },
+  {
+    "code": "tr",
+    "name": "Turkish",
+    "nativeName": "Türkçe",
+    "locales": ["tr-TR"]
+  },
+  {
+    "code": "cs",
+    "name": "Czech",
+    "nativeName": "Čeština",
+    "locales": ["cs-CZ"]
+  },
+  {
+    "code": "pl",
+    "name": "Polish",
+    "nativeName": "Polski",
+    "locales": ["pl-PL"]
+  }
+]

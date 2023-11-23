@@ -1,0 +1,7 @@
+{
+  "date": "오늘은 {{val, datetime}}",
+  "metadata": {
+    "title": "오늘은 몇 일입니까? | 오늘의 날짜와 요일을 즉시 찾으세요 - whats-todays-date.com",
+    "description": "'오늘의 날짜와 요일은 무엇인가요?'라고 궁금해하십니까? 오늘의 정확한 날짜와 요일을 whats-todays-date.com에서 빠르고 정확하게 확인하세요."
+  }
+}
